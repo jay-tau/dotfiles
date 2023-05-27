@@ -1,3 +1,5 @@
-source /usr/share/zsh/share/antigen.zsh
+#source /usr/share/zsh/share/antigen.zsh
 
-antigen init $HOME/.antigenrc  # Load antigen config from .antigenrc
+#antigen init $HOME/.antigenrc  # Load antigen config from .antigenrc
+
+eval "$(zoxide init zsh)"
