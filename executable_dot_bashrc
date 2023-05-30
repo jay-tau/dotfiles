@@ -87,3 +87,6 @@ _open_files_for_editing() {
 
 # Created by `pipx` on 2023-05-29 15:44:02
 export PATH="$PATH:/home/jaytau/.local/bin"
+
+alias rm='echo "This is not the command you are looking for."; false' # For trash-cli
+
