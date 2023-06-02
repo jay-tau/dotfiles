@@ -1,0 +1,16 @@
+{
+  "add_locator_map": false,
+  "cuda": "cu118",
+  "fandom": "",
+  "kindle_gloss_lang": "en",
+  "last_opened_kindle_lemmas_language": "en",
+  "last_opened_wiktionary_lemmas_language": "en",
+  "minimal_x_ray_count": 1,
+  "model_size": "lg",
+  "search_people": true,
+  "use_gpu": false,
+  "use_pos": true,
+  "use_wiktionary_for_kindle": false,
+  "wiktionary_gloss_lang": "en",
+  "zh_wiki_variant": "cn"
+}
