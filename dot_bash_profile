@@ -10,3 +10,7 @@ fi
 
 # Created by `pipx` on 2023-05-29 15:44:02
 export PATH="$PATH:/home/jaytau/.local/bin"
+
+
+GPG_TTY=$(tty)
+export GPG_TTY
