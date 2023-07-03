@@ -90,3 +90,5 @@ export PATH="$PATH:/home/jaytau/.local/bin"
 
 alias rm='echo "This is not the command you are looking for."; false' # For trash-cli
 
+# Set up Node Version Manager
+source /usr/share/nvm/init-nvm.sh
